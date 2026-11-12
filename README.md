@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Pablo 👋
+
+Software Engineering student focused on Blue Team / SOC.
+
+- 🔭 Studying: CCNA (Dec 2026) → BTL1 → SC-200
+- 🛡 Working through the TryHackMe SOC Level 1 path — writeups in [tryhackme-writeups](https://github.com/pabloregidor/tryhackme-writeups)
+- 📫 Contact: pblo.regidor@gmail.com
 
 <!--
 **pabloregidor/pabloregidor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
